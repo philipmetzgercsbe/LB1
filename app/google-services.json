@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109602140059",
+    "firebase_url": "https://auth-walk.firebaseio.com",
+    "project_id": "auth-walk",
+    "storage_bucket": "auth-walk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109602140059:android:0756c5a00182da97",
+        "android_client_info": {
+          "package_name": "com.example.lb1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109602140059-6gslc1h8vq3lepor2sp85qurf4cfon3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lb1",
+            "certificate_hash": "7dc7dc36c21c0427d30d66594b16fd0dbfa4d627"
+          }
+        },
+        {
+          "client_id": "109602140059-2c3d5s4kqio8ifu83kp3kjrhfsqfc449.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrTQU9qiwLsfGVklPugOjfjnlVuJglX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109602140059-2c3d5s4kqio8ifu83kp3kjrhfsqfc449.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

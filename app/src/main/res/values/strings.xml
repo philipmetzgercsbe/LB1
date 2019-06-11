@@ -1,0 +1,58 @@
+<resources>
+    <!--Global Strings-->
+    <string name="app_name">LB1</string>
+    <string name="title_home">Home</string>
+    <string name="title_last_images">Last imageData</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_you_walked">You walked this Path in the last: </string>
+    <string name="title_camera">Take a picture</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_register">Register</string>
+    <string name="permission_rationale_email">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="permission_rationale_gps">"GPS permissions is needed for this app."
+    </string>
+    <!--Spinner Items-->
+    <string-array name="spinner_duration">
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+        <item>2 Hours</item>
+    </string-array>
+    <!-- Strings related to login -->
+    <string name="login_prompt_username">Username</string>
+    <string name="login_prompt_email">Email</string>
+    <string name="login_prompt_password">Password</string>
+    <string name="login_action_sign_in">Sign in or register</string>
+    <string name="login_action_sign_in_short">Sign in</string>
+    <string name="login_error_invalid_username">Username is invalid</string>
+    <string name="login_error_invalid_password">This password is too short</string>
+    <string name="login_error_incorrect_password">This password is incorrect</string>
+    <string name="login_error_max_attempts">You entered to many wrong Credentials, try again later</string>
+    <string name="login_error_field_required">This field is required</string>
+    <string name="login_unregistered">No Registered yet? Click here to register</string>
+    <!-- Strings related to the Register fragment -->
+    <string name="register_prompt_firstname">Firstname</string>
+    <string name="register_success">Registered successfully</string>
+    <string name="register_failure">Registration failed</string>
+    <string name="register_prompt_lastname">Lastname</string>
+    <string name="register_prompt_email">Email</string>
+    <string name="register_prompt_password">Password</string>
+    <string name="register_prompt_username">Username</string>
+    <string name="register_action_register">Register</string>
+
+    <!-- Settings-->
+    <string name="settings_fine">Use your precise Location</string>
+    <string name="settings_coarse">Use roughly your Location</string>
+    <string name="settings_power_usage">Battery usage </string>
+    <string name="settings_button_coarse">Rough</string>
+    <string name="settings_button_Fine">Precise</string>
+    <string name="settings_radio_high">High</string>
+    <string name="settings_radio_medium">Medium</string>
+    <string name="settings_radio_low">Low</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="GMAPS_KEY">AIzaSyD0mFBVEhsnwxf_Y6Dapx-SK59sCqQBjMw</string>
+
+
+</resources>
